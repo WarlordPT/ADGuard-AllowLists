@@ -1,0 +1,4 @@
+#Lista de Permissões PSDG-ADGuard Home #
+
+^youtube.com^
+^discord^
